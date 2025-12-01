@@ -1,0 +1,1 @@
+Fun one to start today. Got away with some maths rather than doing any actual simulation in Part 1 but went ahead and fully simulated the safe in Part 2
