@@ -1,0 +1,1 @@
+Fun one today. Stumbled a bit in the second part where I didn't consider how it would handle single digit numbers, but once I spotted it was counting them it was a simple enough fix
