@@ -1,18 +1,3 @@
-class Battery:
-    def __init__(self, strength):
-        self.strength = strength
-        self.position = None
-        self.on = False
-
-    def switch_on(self, position):
-        self.on = True
-        self.position = position
-    
-    def switch_off(self):
-        self.on = False
-        self.position = None
-    
-
 import os
 input = open(os.path.join(os.path.dirname(__file__), "input.txt"), 'r').read().splitlines()
 
