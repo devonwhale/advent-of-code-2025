@@ -1,0 +1,1 @@
+First proper Brain Teaser today. Throw my solution to part one together while I was waking up and it was not good enough to be simply reused for part two, so properly thought it through and used our old friend Psuedocode to map it all out. Once I'd figured out exactly what I wanted the code to do, actually writing it became easy. Who'd have guess that would be the case‽
