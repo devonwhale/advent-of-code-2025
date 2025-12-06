@@ -1,0 +1,1 @@
+Lovely one today. Nice spot of handling whitespace which is always fun, which lead to an interesting change in how I dealt with the problem in the second half.
