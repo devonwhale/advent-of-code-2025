@@ -1,0 +1,1 @@
+I sound like a broken record, but that was really fun! My second part isn't that performant but it gets the job done and I wasn't able to start until late today so I'm just happy I got something that works
